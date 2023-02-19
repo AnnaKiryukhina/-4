@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_\obj\Debug\net6.0\ДЗ_.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_\obj\Debug\net6.0\ДЗ_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_\obj\Debug\net6.0\ДЗ_.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_\obj\Debug\net6.0\ДЗ_.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_\obj\Debug\net6.0\ДЗ_.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_\bin\Debug\net6.0\ДЗ_.exe
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_\bin\Debug\net6.0\ДЗ_.deps.json
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_\bin\Debug\net6.0\ДЗ_.runtimeconfig.json
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_\bin\Debug\net6.0\ДЗ_.dll
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_\bin\Debug\net6.0\ДЗ_.pdb
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_\obj\Debug\net6.0\ДЗ_.dll
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_\obj\Debug\net6.0\refint\ДЗ_.dll
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_\obj\Debug\net6.0\ДЗ_.pdb
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_\obj\Debug\net6.0\ДЗ_.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_\obj\Debug\net6.0\ref\ДЗ_.dll
