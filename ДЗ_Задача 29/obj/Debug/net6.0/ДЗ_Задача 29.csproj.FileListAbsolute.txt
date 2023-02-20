@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_Задача 29\bin\Debug\net6.0\ДЗ_Задача 29.exe
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_Задача 29\bin\Debug\net6.0\ДЗ_Задача 29.deps.json
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_Задача 29\bin\Debug\net6.0\ДЗ_Задача 29.runtimeconfig.json
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_Задача 29\bin\Debug\net6.0\ДЗ_Задача 29.dll
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_Задача 29\bin\Debug\net6.0\ДЗ_Задача 29.pdb
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_Задача 29\obj\Debug\net6.0\ДЗ_Задача 29.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_Задача 29\obj\Debug\net6.0\ДЗ_Задача 29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_Задача 29\obj\Debug\net6.0\ДЗ_Задача 29.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_Задача 29\obj\Debug\net6.0\ДЗ_Задача 29.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_Задача 29\obj\Debug\net6.0\ДЗ_Задача 29.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_Задача 29\obj\Debug\net6.0\ДЗ_Задача 29.dll
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_Задача 29\obj\Debug\net6.0\refint\ДЗ_Задача 29.dll
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_Задача 29\obj\Debug\net6.0\ДЗ_Задача 29.pdb
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_Задача 29\obj\Debug\net6.0\ДЗ_Задача 29.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Учеба\С# Семинар 4\ДЗ_Задача 29\obj\Debug\net6.0\ref\ДЗ_Задача 29.dll
